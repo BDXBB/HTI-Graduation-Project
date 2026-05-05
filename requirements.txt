@@ -1,0 +1,11 @@
+mysql-connector-python
+telethon
+picamera2
+RPi.GPIO
+pytgcalls
+transformers
+torch
+librosa
+sounddevice
+numpy
+scipy
